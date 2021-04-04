@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alaester Nikolai Modern, aka @Lil-Allie-Astra
 - 👀 I’m interested in programming, computers, cars, and the synergies between them.
 - 🌱 I’m currently learning Python, and want to learn Javascript in the future, as well as possibly C++ and Java.
-- ✨ I am proficient in 
+- ✨ I'm proficient in Bash and DOS.
 - 💞️ I’m looking to collaborate on ... (still unsure about this part)
 - 📫 How to reach me: email: a.modern.freelancing@gmail.com
 
