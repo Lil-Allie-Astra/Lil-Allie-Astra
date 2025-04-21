@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Alaester Nikolai Modern, aka @Lil-Allie-Astra
-- 👀 I’m interested in programming, computers, cars, and the synergies between them.
+- 👋 Hi, I’m Allie Nikol Modern, aka @Lil-Allie-Astra
+- 👀 I’m interested in programming, computers, microcontrollers, cars, and the synergies between them.
 - 🌱 I’m currently learning Javascript, and want to learn Arduino (C++) in the future, as well as possibly Java.
 - ✨ I'm proficient in Python, Bash, and DOS.
 - 💞️ I’m looking to collaborate on ... (still unsure about this part)
